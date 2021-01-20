@@ -1,0 +1,17 @@
+{
+  "auth": {
+    "fullstackapp172fa12a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "hosting": {
+    "amplifyhosting": {
+      "service": "amplifyhosting",
+      "type": "cicd",
+      "lastPushTimeStamp": "2021-01-20T21:38:05.554Z"
+    }
+  }
+}
